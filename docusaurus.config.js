@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Sardis Network',
+  title: 'Sardis Network Test',
   tagline: 'Sardis blockchain ecosystem facilitates under 3 second payments on a global scale, finally enabling crypto usage in daily life.',
   favicon: 'img/favicon.ico',
   plugins: ['docusaurus-plugin-sass'],
